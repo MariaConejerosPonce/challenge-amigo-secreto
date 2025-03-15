@@ -1,7 +1,6 @@
-let amigo = ("");
+const amigoSecreto = []
 function agregarAmigo() {
 let nombreAmigoSecreto = document.getElementById("amigo");
 console.log(nombreAmigoSecreto);
-if nombreAmigoSecreto
 return;
 }
