@@ -1,6 +1,6 @@
 const amigoSecreto = []
 function agregarAmigo() {
-let nombreAmigoSecreto = document.getElementById("amigo");
+let nombreAmigoSecreto = document.getElementById("amigo").value;
 console.log(nombreAmigoSecreto);
 return;
 }
