@@ -15,3 +15,8 @@ function agregarAmigo() {
 function limpiarCampo() {
    document.getElementById("amigo").value = "";
 }
+function agregarNombreALista() {
+    let lista=document.getElementById("listaAmigos")  
+    lista.innerHTML = ""
+    
+}
